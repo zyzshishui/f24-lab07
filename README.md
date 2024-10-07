@@ -1,1 +1,6 @@
-# f24-lab07
+# Lab 7 - Test Double 
+Run the following commands to get started:
+```
+mvn install
+mvn test
+```
